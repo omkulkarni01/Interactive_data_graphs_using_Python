@@ -17,4 +17,6 @@ git clone https://github.com/omkulkarni01/Interactive-covid-data-graphs-using-Py
 80. gdp=pd.read_csv('gdp.csv') 
 ```
 3) Output should be like the images shown below
- ![](https://drive.google.com/file/d/1rNS6n3q4zgQeI57wuDx8MxiUuGw3FSXY/view?usp=sharing)
+ ![](https://github.com/omkulkarni01/Interactive-covid-data-graphs-using-Python/blob/main/covid%20data.PNG)
+ ![](https://github.com/omkulkarni01/Interactive-covid-data-graphs-using-Python/blob/main/Agri%20data.PNG)
+ ![](https://github.com/omkulkarni01/Interactive-covid-data-graphs-using-Python/blob/main/gdp%20data.PNG)
